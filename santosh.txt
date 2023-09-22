@@ -1,1 +1,2 @@
 the file is created by santosh nellagi this for the pracice purpose be handlful for usages
+the file is edited in gui of git hub
